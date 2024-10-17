@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https/sumanth8495.github.io/innotech/static/css/main.39b634b3.css",
+    "main.js": "/https/sumanth8495.github.io/innotech/static/js/main.8986a22c.js",
+    "index.html": "/https/sumanth8495.github.io/innotech/index.html",
+    "main.39b634b3.css.map": "/https/sumanth8495.github.io/innotech/static/css/main.39b634b3.css.map",
+    "main.8986a22c.js.map": "/https/sumanth8495.github.io/innotech/static/js/main.8986a22c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b634b3.css",
+    "static/js/main.8986a22c.js"
+  ]
+}
